@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class NetworkUtils {
     private final static  String WeatherDB_Base_URL=
-            "https://dataservice.accuweather.com/forecasts/v1/daily/5day/349818";
+            "ur weather api url";
     private final static  String API_KEY="m7vfPTB8UBVhE3GZwJLubGuxy4CNSzbr";
     private final static  String PARAM_API_KEY="apikey";
     private static final String TAG="hello";
